@@ -1,0 +1,12 @@
+C:\Users\HP\source\repos\BeeSolverAssignment.Api\BeeSolverAssignment.Business\bin\Debug\net6.0\BeeSolverAssignment.Business.deps.json
+C:\Users\HP\source\repos\BeeSolverAssignment.Api\BeeSolverAssignment.Business\bin\Debug\net6.0\BeeSolverAssignment.Business.dll
+C:\Users\HP\source\repos\BeeSolverAssignment.Api\BeeSolverAssignment.Business\bin\Debug\net6.0\BeeSolverAssignment.Business.pdb
+C:\Users\HP\source\repos\BeeSolverAssignment.Api\BeeSolverAssignment.Business\obj\Debug\net6.0\BeeSolverAssignment.Business.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\BeeSolverAssignment.Api\BeeSolverAssignment.Business\obj\Debug\net6.0\BeeSolverAssignment.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\BeeSolverAssignment.Api\BeeSolverAssignment.Business\obj\Debug\net6.0\BeeSolverAssignment.Business.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\BeeSolverAssignment.Api\BeeSolverAssignment.Business\obj\Debug\net6.0\BeeSolverAssignment.Business.AssemblyInfo.cs
+C:\Users\HP\source\repos\BeeSolverAssignment.Api\BeeSolverAssignment.Business\obj\Debug\net6.0\BeeSolverAssignment.Business.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\BeeSolverAssignment.Api\BeeSolverAssignment.Business\obj\Debug\net6.0\BeeSolverAssignment.Business.dll
+C:\Users\HP\source\repos\BeeSolverAssignment.Api\BeeSolverAssignment.Business\obj\Debug\net6.0\refint\BeeSolverAssignment.Business.dll
+C:\Users\HP\source\repos\BeeSolverAssignment.Api\BeeSolverAssignment.Business\obj\Debug\net6.0\BeeSolverAssignment.Business.pdb
+C:\Users\HP\source\repos\BeeSolverAssignment.Api\BeeSolverAssignment.Business\obj\Debug\net6.0\ref\BeeSolverAssignment.Business.dll

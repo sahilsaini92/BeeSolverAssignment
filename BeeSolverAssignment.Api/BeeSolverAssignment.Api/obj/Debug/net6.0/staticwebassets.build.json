@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "gC3VJ8ZNy6n1vtquhrStP68kJqzGBLMmEHPwk6cm3xs=",
+  "Source": "BeeSolverAssignment.Api",
+  "BasePath": "_content/BeeSolverAssignment.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
